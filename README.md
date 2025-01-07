@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I am a first-year undergraduate at "The University of Hong Kong."
+- Currently majoring in Data Science and Engineering.
+- Interested in AI, backend, and mobile development.
